@@ -1,5 +1,5 @@
 # hello-world
-Helllo World Tutorial 
+Hello World Tutorial 
 What are we gonna do today?
 Same thing we do everyday ...
 Try to change the world! 
